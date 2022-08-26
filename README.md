@@ -11,3 +11,10 @@
 ```
 https://github.com/taochunhui824/vue3-ts-demo
 ```  
+cmd命令(每个人知识储备程度不同,我就这样尽可能详细讲吧, 希望能帮到你) 进入到vue3-ts-demo文件夹
+
+执行下面命令, 下载项目所需要的依赖  
+
+```
+npm install
+```
