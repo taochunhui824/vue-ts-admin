@@ -25,3 +25,8 @@ npm run serve
 ```
 
 每个人网速或者npm的镜像不同, 可能需要等待一会儿, 如果没有什么问题, 会显示下面内容  
+<img width="436" alt="WX20220826-102232@2x" src="https://user-images.githubusercontent.com/21376192/186802970-f68d2654-c99f-43a6-acad-6afa359abb2b.png">
+打开浏览器输入地址  
+```
+http://localhost:8080/
+```
