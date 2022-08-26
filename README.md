@@ -6,5 +6,6 @@
 视频地址:https://www.bilibili.com/video/BV1nr4y1G73d?p=1
 
 # 下载使用  
-首先复制仓库链接, 下载仓库到本地
-https://github.com/taochunhui824/vue3-ts-demo/
+首先复制仓库链接, 下载仓库到本地  
+
+https://github.com/taochunhui824/vue3-ts-demo
