@@ -8,12 +8,6 @@
 # 下载使用  
 首先复制仓库链接, 下载仓库到本地  
 
-```https://github.com/taochunhui824/vue3-ts-demo```
-
 ```
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
+https://github.com/taochunhui824/vue3-ts-demo
 ```  
