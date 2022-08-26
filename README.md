@@ -5,5 +5,5 @@
 
 视频地址:https://www.bilibili.com/video/BV1nr4y1G73d?p=1
 
-#简单说下
-我的node版本是
+#简单说下  
+213
